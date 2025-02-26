@@ -22,7 +22,7 @@ Como **Analista Financiero**, una de mis pasiones yace en el **mercado de capita
 <br>
 [Página Facebook](https://web.facebook.com/people/Black-Midas/100086835557408/) 
 
-Tuvo gran acogida, la totalidad de las ventas fueron a otras ciudades del país, sin embargo actualmente está en deshuso, tuve el infortunio de operar en una de las ultimas subidas del dólar y el sistema de Meta Business Suite evidentemente hace el descuento de dólares, quizás en un futuro lo retomo pero creo que haría diferente un par de cosas a día de hoy.  
+Tuvo gran acogida, la totalidad de las ventas fueron a otras ciudades del país, sin embargo actualmente está en deshuso, tuve el infortunio de operar en una de las últimas subidas del dólar y el sistema de Meta Business Suite evidentemente hace el descuento de dólares, quizás en un futuro lo retomo pero creo que haría diferente un par de cosas a día de hoy.  
 
 
 
