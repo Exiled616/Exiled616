@@ -1,5 +1,5 @@
 # Felipe López Cárdenas 🐍
-<img src="https://github.com/user-attachments/assets/e7bb3e2f-04f1-49bb-9879-f92e6cd5359a" alt="king-cobra-gold-logo" width="900" >
+<img src="https://github.com/user-attachments/assets/e7bb3e2f-04f1-49bb-9879-f92e6cd5359a" alt="king-cobra-gold-logo" width="450" >
 
 
 
