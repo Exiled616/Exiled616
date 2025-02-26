@@ -10,8 +10,8 @@ Por dicho motivo empecé en el mundo de la programación como una forma de reali
 
 1. Lenguajes de Programación (Python, Bash, C#, Javascript)
 2. Bases de Datos:
-   2.1. No SQL (Excel/Power Bi, MongoDB, Apache Cassandra)
-   2.2. SQL (MySQL, PostgreSQL, Microsoft SQL Server)
+   No SQL (Excel/Power Bi, MongoDB, Apache Cassandra)
+   SQL (MySQL, PostgreSQL, Microsoft SQL Server)
 
 ## Proyectos
 
