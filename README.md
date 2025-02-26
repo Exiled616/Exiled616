@@ -1,4 +1,6 @@
 # Felipe López Cárdenas 🐍
+![king-cobra-gold-logo-9ufxu9y5miglo9sa](https://github.com/user-attachments/assets/e7bb3e2f-04f1-49bb-9879-f92e6cd5359a)
+
 
 ## Sobre mí
 
